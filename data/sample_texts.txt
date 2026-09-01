@@ -1,0 +1,8 @@
+The cat sat on the mat.
+The dog sat beside the cat.
+The bank approved the loan.
+She deposited money in the bank.
+They sat on the bank of the river.
+The river flowed beside the bank.
+Machine learning models learn patterns from data.
+Deep learning is a branch of machine learning.
